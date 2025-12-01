@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+instance/
+env/
+*.sqlite3
+serviceAccount.json
